@@ -1,0 +1,55 @@
+/* Este es ek estilo princiPAL */
+
+*{font-size: 32px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(236, 247, 35);
+background-color: black;
+}
+
+p{
+    color: rgba(72, 54, 233, 0.618);
+}
+
+header {
+
+    background-color: yellow;
+    color:black;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+/* Este es el estilo biografia */
+
+p.bio{
+    color: rgba(224, 28, 25, 0.618);
+}
+
+/* estilos de clase */
+
+.bio { font-size: larger;
+font-family: sans-serif;}
+
+/* estilos enlace */
+
+a:visited {
+
+    color:rgba(236, 41, 214, 0.618)
+}
+
+a:hover {
+
+    color:rgba(243, 238, 78, 0.968)
+}
+
+a:active {
+    color: royalblue;
+
+}
+
+img{width: 250px;
+border: tomato;
+border-width: 2px;}
+
+
+
